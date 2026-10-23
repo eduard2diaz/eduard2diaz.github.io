@@ -1,0 +1,25 @@
+{
+  "title": "Eduardo Antonio",
+  "subtitle": "Projects in Machine Learning, backend and DevOps. Filter by tag or search by keyword.",
+  "owners": ["eduard2diaz", "CodeForge-00", "AtlasFreight", "SeijoProduce"],
+  "exclude": ["eduard2diaz/eduard2diaz", "eduard2diaz/eduard2diaz.github.io"],
+  "include_forks": false,
+  "overrides": {
+    "CodeForge-00/C4.5Classify": {
+      "description": "C4.5 decision tree from scratch with pessimistic and penalty pruning, applied to wine quality",
+      "topics": ["machine-learning", "decision-trees", "from-scratch", "python"]
+    },
+    "CodeForge-00/RNN": {
+      "description": "Recurrent neural network from scratch: backpropagation through time with gradient clipping",
+      "topics": ["machine-learning", "deep-learning", "rnn", "from-scratch", "python"]
+    },
+    "CodeForge-00/RBM": {
+      "description": "Restricted Boltzmann Machine from scratch, with MNIST and image dimensionality reduction notebooks",
+      "topics": ["machine-learning", "deep-learning", "rbm", "from-scratch", "jupyter-notebook", "python"]
+    },
+    "CodeForge-00/video_sentiment_analysis": {
+      "description": "Video sentiment analysis exercise showing the limits of classical CNNs on video",
+      "topics": ["machine-learning", "deep-learning", "cnn", "sentiment-analysis", "video", "python"]
+    }
+  }
+}

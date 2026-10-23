@@ -1,0 +1,259 @@
+{
+  "generated": "2026-10-23T02:13:16Z",
+  "repos": [
+    {
+      "owner": "CodeForge-00",
+      "name": "C4.5Classify",
+      "full_name": "CodeForge-00/C4.5Classify",
+      "url": "https://github.com/CodeForge-00/C4.5Classify",
+      "description": "C4.5 decision tree from scratch with pessimistic and penalty pruning, applied to wine quality",
+      "language": "Python",
+      "topics": [
+        "decision-trees",
+        "from-scratch",
+        "machine-learning",
+        "python"
+      ],
+      "archived": true,
+      "pushed_at": "2026-10-23T01:56:36Z",
+      "stars": 0
+    },
+    {
+      "owner": "CodeForge-00",
+      "name": "buscaminas",
+      "full_name": "CodeForge-00/buscaminas",
+      "url": "https://github.com/CodeForge-00/buscaminas",
+      "description": "Minesweeper playable by a human, a neural network or a reinforcement learning agent",
+      "language": "Python",
+      "topics": [
+        "game",
+        "neural-networks",
+        "python",
+        "reinforcement-learning"
+      ],
+      "archived": false,
+      "pushed_at": "2026-10-16T03:23:13Z",
+      "stars": 0
+    },
+    {
+      "owner": "CodeForge-00",
+      "name": "tictactoe-ai-agents",
+      "full_name": "CodeForge-00/tictactoe-ai-agents",
+      "url": "https://github.com/CodeForge-00/tictactoe-ai-agents",
+      "description": "Tic-Tac-Toe in pygame against minimax, a neural network and a reinforcement learning agent",
+      "language": "Python",
+      "topics": [
+        "game-ai",
+        "minimax",
+        "neural-networks",
+        "pygame",
+        "python",
+        "reinforcement-learning",
+        "study"
+      ],
+      "archived": false,
+      "pushed_at": "2026-10-12T00:52:15Z",
+      "stars": 0
+    },
+    {
+      "owner": "SeijoProduce",
+      "name": "prometheus-observability",
+      "full_name": "SeijoProduce/prometheus-observability",
+      "url": "https://github.com/SeijoProduce/prometheus-observability",
+      "description": "Observability stack for microservices: OpenTelemetry, Jaeger, Prometheus, Grafana and Loki",
+      "language": null,
+      "topics": [
+        "devops",
+        "grafana",
+        "microservices",
+        "observability",
+        "prometheus"
+      ],
+      "archived": false,
+      "pushed_at": "2026-01-26T01:54:46Z",
+      "stars": 0
+    },
+    {
+      "owner": "SeijoProduce",
+      "name": "zipkin-tracing-system",
+      "full_name": "SeijoProduce/zipkin-tracing-system",
+      "url": "https://github.com/SeijoProduce/zipkin-tracing-system",
+      "description": "Distributed tracing with Zipkin and Elasticsearch for a microservices architecture",
+      "language": null,
+      "topics": [
+        "devops",
+        "microservices",
+        "observability",
+        "zipkin"
+      ],
+      "archived": false,
+      "pushed_at": "2026-01-26T01:36:47Z",
+      "stars": 0
+    },
+    {
+      "owner": "SeijoProduce",
+      "name": "consul-service-discovery",
+      "full_name": "SeijoProduce/consul-service-discovery",
+      "url": "https://github.com/SeijoProduce/consul-service-discovery",
+      "description": "Service discovery with HashiCorp Consul and HAProxy, deployed with Docker Compose",
+      "language": null,
+      "topics": [
+        "consul",
+        "devops",
+        "docker",
+        "microservices"
+      ],
+      "archived": false,
+      "pushed_at": "2026-01-25T18:04:15Z",
+      "stars": 0
+    },
+    {
+      "owner": "AtlasFreight",
+      "name": "authentication_service",
+      "full_name": "AtlasFreight/authentication_service",
+      "url": "https://github.com/AtlasFreight/authentication_service",
+      "description": "Local Keycloak 24 cluster with a shared PostgreSQL database",
+      "language": null,
+      "topics": [
+        "authentication",
+        "backend",
+        "devops",
+        "docker",
+        "keycloak"
+      ],
+      "archived": false,
+      "pushed_at": "2025-12-07T02:16:21Z",
+      "stars": 0
+    },
+    {
+      "owner": "AtlasFreight",
+      "name": "response_wrapper",
+      "full_name": "AtlasFreight/response_wrapper",
+      "url": "https://github.com/AtlasFreight/response_wrapper",
+      "description": "Lightweight Java library to standardize API response structures",
+      "language": "Java",
+      "topics": [
+        "api",
+        "backend",
+        "java",
+        "library"
+      ],
+      "archived": false,
+      "pushed_at": "2025-11-08T19:37:05Z",
+      "stars": 0
+    },
+    {
+      "owner": "CodeForge-00",
+      "name": "okta-spring-example",
+      "full_name": "CodeForge-00/okta-spring-example",
+      "url": "https://github.com/CodeForge-00/okta-spring-example",
+      "description": "Spring Boot example with Okta authentication",
+      "language": "Java",
+      "topics": [
+        "authentication",
+        "backend",
+        "java",
+        "okta",
+        "spring-boot",
+        "study"
+      ],
+      "archived": false,
+      "pushed_at": "2024-12-16T05:58:04Z",
+      "stars": 0
+    },
+    {
+      "owner": "CodeForge-00",
+      "name": "testing-hashicorp",
+      "full_name": "CodeForge-00/testing-hashicorp",
+      "url": "https://github.com/CodeForge-00/testing-hashicorp",
+      "description": "Experiments with HashiCorp applications, including Vault",
+      "language": "Shell",
+      "topics": [
+        "devops",
+        "hashicorp",
+        "shell",
+        "study",
+        "vault"
+      ],
+      "archived": false,
+      "pushed_at": "2024-07-21T19:15:50Z",
+      "stars": 0
+    },
+    {
+      "owner": "CodeForge-00",
+      "name": "RBM",
+      "full_name": "CodeForge-00/RBM",
+      "url": "https://github.com/CodeForge-00/RBM",
+      "description": "Restricted Boltzmann Machine from scratch, with MNIST and image dimensionality reduction notebooks",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "deep-learning",
+        "from-scratch",
+        "jupyter-notebook",
+        "machine-learning",
+        "python",
+        "rbm"
+      ],
+      "archived": true,
+      "pushed_at": "2023-02-08T15:33:39Z",
+      "stars": 0
+    },
+    {
+      "owner": "CodeForge-00",
+      "name": "video_sentiment_analysis",
+      "full_name": "CodeForge-00/video_sentiment_analysis",
+      "url": "https://github.com/CodeForge-00/video_sentiment_analysis",
+      "description": "Video sentiment analysis exercise showing the limits of classical CNNs on video",
+      "language": "Python",
+      "topics": [
+        "cnn",
+        "deep-learning",
+        "machine-learning",
+        "python",
+        "sentiment-analysis",
+        "video"
+      ],
+      "archived": true,
+      "pushed_at": "2023-01-04T02:33:10Z",
+      "stars": 0
+    },
+    {
+      "owner": "CodeForge-00",
+      "name": "RNN",
+      "full_name": "CodeForge-00/RNN",
+      "url": "https://github.com/CodeForge-00/RNN",
+      "description": "Recurrent neural network from scratch: backpropagation through time with gradient clipping",
+      "language": "HTML",
+      "topics": [
+        "deep-learning",
+        "from-scratch",
+        "machine-learning",
+        "python",
+        "rnn"
+      ],
+      "archived": true,
+      "pushed_at": "2022-11-30T14:44:06Z",
+      "stars": 0
+    },
+    {
+      "owner": "CodeForge-00",
+      "name": "CNN_from_scratch",
+      "full_name": "CodeForge-00/CNN_from_scratch",
+      "url": "https://github.com/CodeForge-00/CNN_from_scratch",
+      "description": "Fully connected and convolutional neural network mini-library in NumPy",
+      "language": "Python",
+      "topics": [
+        "ann",
+        "cnn",
+        "deep-learning",
+        "from-scratch",
+        "machine-learning",
+        "neural-networks",
+        "python"
+      ],
+      "archived": false,
+      "pushed_at": "2022-10-31T22:12:53Z",
+      "stars": 0
+    }
+  ]
+}

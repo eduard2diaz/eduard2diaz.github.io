@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Eduardo Antonio · Projects</title>
+  <meta name="description" content="Projects in Machine Learning, backend and DevOps. Filter by tag or search by keyword.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <header>
+      <h1 id="title">Projects</h1>
+      <p id="subtitle" class="muted"></p>
+      <p class="muted"><a href="https://github.com/eduard2diaz">github.com/eduard2diaz</a></p>
+    </header>
+
+    <section class="controls" aria-label="Filters">
+      <div class="search-row">
+        <label class="sr-only" for="search">Search projects</label>
+        <input id="search" type="search" placeholder="Search by name, description, tag or language…" autocomplete="off">
+        <label class="sr-only" for="sort">Sort by</label>
+        <select id="sort">
+          <option value="updated">Recently updated</option>
+          <option value="name">Name</option>
+        </select>
+      </div>
+      <fieldset>
+        <legend>Tags</legend>
+        <div id="tags" class="chips"></div>
+      </fieldset>
+      <fieldset>
+        <legend>Organization</legend>
+        <div id="owners" class="chips"></div>
+      </fieldset>
+      <p class="status"><span id="count" role="status" aria-live="polite"></span>
+        <button id="clear" type="button" class="link" hidden>Clear filters</button></p>
+    </section>
+
+    <section id="results" class="grid" aria-label="Projects"></section>
+    <p id="empty" class="muted" hidden>No projects match these filters.</p>
+    <p id="error" class="muted" hidden>Could not load the project list.</p>
+
+    <footer class="muted"><span id="generated"></span></footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
