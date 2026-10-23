@@ -1,6 +1,44 @@
 {
-  "generated": "2026-10-23T02:13:16Z",
+  "generated": "2026-10-23T11:45:32Z",
   "repos": [
+    {
+      "owner": "CodeForge-00",
+      "name": "RNN",
+      "full_name": "CodeForge-00/RNN",
+      "url": "https://github.com/CodeForge-00/RNN",
+      "description": "Recurrent neural network from scratch: backpropagation through time with gradient clipping",
+      "language": "HTML",
+      "topics": [
+        "deep-learning",
+        "from-scratch",
+        "machine-learning",
+        "python",
+        "rnn"
+      ],
+      "archived": true,
+      "pushed_at": "2026-10-23T02:37:35Z",
+      "stars": 0
+    },
+    {
+      "owner": "CodeForge-00",
+      "name": "CNN_from_scratch",
+      "full_name": "CodeForge-00/CNN_from_scratch",
+      "url": "https://github.com/CodeForge-00/CNN_from_scratch",
+      "description": "Fully connected and convolutional neural network mini-library in NumPy",
+      "language": "Python",
+      "topics": [
+        "ann",
+        "cnn",
+        "deep-learning",
+        "from-scratch",
+        "machine-learning",
+        "neural-networks",
+        "python"
+      ],
+      "archived": true,
+      "pushed_at": "2026-10-23T02:19:19Z",
+      "stars": 0
+    },
     {
       "owner": "CodeForge-00",
       "name": "C4.5Classify",
@@ -177,82 +215,6 @@
       ],
       "archived": false,
       "pushed_at": "2024-07-21T19:15:50Z",
-      "stars": 0
-    },
-    {
-      "owner": "CodeForge-00",
-      "name": "RBM",
-      "full_name": "CodeForge-00/RBM",
-      "url": "https://github.com/CodeForge-00/RBM",
-      "description": "Restricted Boltzmann Machine from scratch, with MNIST and image dimensionality reduction notebooks",
-      "language": "Jupyter Notebook",
-      "topics": [
-        "deep-learning",
-        "from-scratch",
-        "jupyter-notebook",
-        "machine-learning",
-        "python",
-        "rbm"
-      ],
-      "archived": true,
-      "pushed_at": "2023-02-08T15:33:39Z",
-      "stars": 0
-    },
-    {
-      "owner": "CodeForge-00",
-      "name": "video_sentiment_analysis",
-      "full_name": "CodeForge-00/video_sentiment_analysis",
-      "url": "https://github.com/CodeForge-00/video_sentiment_analysis",
-      "description": "Video sentiment analysis exercise showing the limits of classical CNNs on video",
-      "language": "Python",
-      "topics": [
-        "cnn",
-        "deep-learning",
-        "machine-learning",
-        "python",
-        "sentiment-analysis",
-        "video"
-      ],
-      "archived": true,
-      "pushed_at": "2023-01-04T02:33:10Z",
-      "stars": 0
-    },
-    {
-      "owner": "CodeForge-00",
-      "name": "RNN",
-      "full_name": "CodeForge-00/RNN",
-      "url": "https://github.com/CodeForge-00/RNN",
-      "description": "Recurrent neural network from scratch: backpropagation through time with gradient clipping",
-      "language": "HTML",
-      "topics": [
-        "deep-learning",
-        "from-scratch",
-        "machine-learning",
-        "python",
-        "rnn"
-      ],
-      "archived": true,
-      "pushed_at": "2022-11-30T14:44:06Z",
-      "stars": 0
-    },
-    {
-      "owner": "CodeForge-00",
-      "name": "CNN_from_scratch",
-      "full_name": "CodeForge-00/CNN_from_scratch",
-      "url": "https://github.com/CodeForge-00/CNN_from_scratch",
-      "description": "Fully connected and convolutional neural network mini-library in NumPy",
-      "language": "Python",
-      "topics": [
-        "ann",
-        "cnn",
-        "deep-learning",
-        "from-scratch",
-        "machine-learning",
-        "neural-networks",
-        "python"
-      ],
-      "archived": false,
-      "pushed_at": "2022-10-31T22:12:53Z",
       "stars": 0
     }
   ]
