@@ -1,6 +1,24 @@
 {
-  "generated": "2026-10-25T16:51:19Z",
+  "generated": "2026-10-25T17:03:53Z",
   "repos": [
+    {
+      "owner": "CodeForge-00",
+      "name": "rumelhart_backpropagation",
+      "full_name": "CodeForge-00/rumelhart_backpropagation",
+      "url": "https://github.com/CodeForge-00/rumelhart_backpropagation",
+      "description": "Backpropagation as in Rumelhart, Hinton and Williams (1986) from scratch: XOR, symmetry, encoder, family trees and live 2D training",
+      "language": "Python",
+      "topics": [
+        "backpropagation",
+        "from-scratch",
+        "machine-learning",
+        "neural-networks",
+        "python"
+      ],
+      "archived": false,
+      "pushed_at": "2026-10-25T17:03:34Z",
+      "stars": 0
+    },
     {
       "owner": "CodeForge-00",
       "name": "rosenblatt_perceptron",
