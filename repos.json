@@ -1,6 +1,31 @@
 {
-  "generated": "2026-10-25T20:05:06Z",
+  "generated": "2026-10-25T20:32:15Z",
   "repos": [
+    {
+      "owner": "CodeForge-00",
+      "name": "ann_from_scratch",
+      "full_name": "CodeForge-00/ann_from_scratch",
+      "url": "https://github.com/CodeForge-00/ann_from_scratch",
+      "description": "Approximate nearest neighbors from scratch: LSH, KD-tree, Annoy, IVF, PQ and HNSW with step-by-step interactive visualizations",
+      "language": "Python",
+      "topics": [
+        "annoy",
+        "approximate-nearest-neighbors",
+        "from-scratch",
+        "hnsw",
+        "kd-tree",
+        "lsh",
+        "machine-learning",
+        "matplotlib",
+        "nearest-neighbor-search",
+        "numpy",
+        "product-quantization",
+        "vector-search"
+      ],
+      "archived": false,
+      "pushed_at": "2026-10-25T20:29:09Z",
+      "stars": 0
+    },
     {
       "owner": "CodeForge-00",
       "name": "transformer_from_scratch",
