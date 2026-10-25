@@ -1,6 +1,24 @@
 {
-  "generated": "2026-10-25T14:48:49Z",
+  "generated": "2026-10-25T15:11:24Z",
   "repos": [
+    {
+      "owner": "CodeForge-00",
+      "name": "mcculloch_pitts_neuron",
+      "full_name": "CodeForge-00/mcculloch_pitts_neuron",
+      "url": "https://github.com/CodeForge-00/mcculloch_pitts_neuron",
+      "description": "McCulloch-Pitts neuron (1943): threshold logic gates, XOR in two layers and a memory cell with a cycle",
+      "language": "Python",
+      "topics": [
+        "from-scratch",
+        "machine-learning",
+        "mcculloch-pitts",
+        "neural-networks",
+        "python"
+      ],
+      "archived": false,
+      "pushed_at": "2026-10-25T15:11:08Z",
+      "stars": 0
+    },
     {
       "owner": "CodeForge-00",
       "name": "video_sentiment_analysis",
@@ -18,6 +36,25 @@
       ],
       "archived": true,
       "pushed_at": "2026-10-25T14:38:42Z",
+      "stars": 0
+    },
+    {
+      "owner": "CodeForge-00",
+      "name": "RBM",
+      "full_name": "CodeForge-00/RBM",
+      "url": "https://github.com/CodeForge-00/RBM",
+      "description": "Restricted Boltzmann Machine from scratch, with MNIST and image dimensionality reduction notebooks",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "deep-learning",
+        "from-scratch",
+        "jupyter-notebook",
+        "machine-learning",
+        "python",
+        "rbm"
+      ],
+      "archived": true,
+      "pushed_at": "2026-10-23T02:56:15Z",
       "stars": 0
     },
     {
