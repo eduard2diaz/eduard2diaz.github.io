@@ -1,6 +1,24 @@
 {
-  "generated": "2026-10-25T17:03:53Z",
+  "generated": "2026-10-25T18:52:30Z",
   "repos": [
+    {
+      "owner": "CodeForge-00",
+      "name": "attention_from_scratch",
+      "full_name": "CodeForge-00/attention_from_scratch",
+      "url": "https://github.com/CodeForge-00/attention_from_scratch",
+      "description": "Attention from scratch in pure Python (math only): additive, dot-product and multi-head attention, seq2seq bottleneck experiment, tutorial and tests",
+      "language": "Python",
+      "topics": [
+        "attention",
+        "deep-learning",
+        "from-scratch",
+        "machine-learning",
+        "python"
+      ],
+      "archived": false,
+      "pushed_at": "2026-10-25T18:52:17Z",
+      "stars": 0
+    },
     {
       "owner": "CodeForge-00",
       "name": "rumelhart_backpropagation",
@@ -15,7 +33,7 @@
         "neural-networks",
         "python"
       ],
-      "archived": false,
+      "archived": true,
       "pushed_at": "2026-10-25T17:03:34Z",
       "stars": 0
     },
