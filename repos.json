@@ -1,6 +1,24 @@
 {
-  "generated": "2026-10-25T18:52:30Z",
+  "generated": "2026-10-25T20:05:06Z",
   "repos": [
+    {
+      "owner": "CodeForge-00",
+      "name": "transformer_from_scratch",
+      "full_name": "CodeForge-00/transformer_from_scratch",
+      "url": "https://github.com/CodeForge-00/transformer_from_scratch",
+      "description": "Transformer from scratch in pure Python (math only): encoder-decoder and decoder-only models, LayerNorm, residuals, tutorial, experiments and tests",
+      "language": "Python",
+      "topics": [
+        "deep-learning",
+        "from-scratch",
+        "machine-learning",
+        "python",
+        "transformer"
+      ],
+      "archived": false,
+      "pushed_at": "2026-10-25T20:04:50Z",
+      "stars": 0
+    },
     {
       "owner": "CodeForge-00",
       "name": "attention_from_scratch",
@@ -15,7 +33,7 @@
         "machine-learning",
         "python"
       ],
-      "archived": false,
+      "archived": true,
       "pushed_at": "2026-10-25T18:52:17Z",
       "stars": 0
     },
