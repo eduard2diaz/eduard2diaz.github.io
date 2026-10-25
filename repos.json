@@ -1,6 +1,24 @@
 {
-  "generated": "2026-10-25T15:11:24Z",
+  "generated": "2026-10-25T15:54:59Z",
   "repos": [
+    {
+      "owner": "CodeForge-00",
+      "name": "rosenblatt_perceptron",
+      "full_name": "CodeForge-00/rosenblatt_perceptron",
+      "url": "https://github.com/CodeForge-00/rosenblatt_perceptron",
+      "description": "Rosenblatt perceptron (1958) from scratch: learning rule, where it fails, and a backprop multilayer comparison",
+      "language": "Python",
+      "topics": [
+        "from-scratch",
+        "machine-learning",
+        "neural-networks",
+        "perceptron",
+        "python"
+      ],
+      "archived": false,
+      "pushed_at": "2026-10-25T15:54:44Z",
+      "stars": 0
+    },
     {
       "owner": "CodeForge-00",
       "name": "mcculloch_pitts_neuron",
@@ -15,7 +33,7 @@
         "neural-networks",
         "python"
       ],
-      "archived": false,
+      "archived": true,
       "pushed_at": "2026-10-25T15:11:08Z",
       "stars": 0
     },
