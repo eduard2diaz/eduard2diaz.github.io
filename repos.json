@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T20:32:15Z",
+  "generated": "2026-11-01T13:32:01Z",
   "repos": [
     {
       "owner": "CodeForge-00",
@@ -244,58 +244,6 @@
       ],
       "archived": false,
       "pushed_at": "2026-10-12T00:52:15Z",
-      "stars": 0
-    },
-    {
-      "owner": "SeijoProduce",
-      "name": "prometheus-observability",
-      "full_name": "SeijoProduce/prometheus-observability",
-      "url": "https://github.com/SeijoProduce/prometheus-observability",
-      "description": "Observability stack for microservices: OpenTelemetry, Jaeger, Prometheus, Grafana and Loki",
-      "language": null,
-      "topics": [
-        "devops",
-        "grafana",
-        "microservices",
-        "observability",
-        "prometheus"
-      ],
-      "archived": false,
-      "pushed_at": "2026-01-26T01:54:46Z",
-      "stars": 0
-    },
-    {
-      "owner": "SeijoProduce",
-      "name": "zipkin-tracing-system",
-      "full_name": "SeijoProduce/zipkin-tracing-system",
-      "url": "https://github.com/SeijoProduce/zipkin-tracing-system",
-      "description": "Distributed tracing with Zipkin and Elasticsearch for a microservices architecture",
-      "language": null,
-      "topics": [
-        "devops",
-        "microservices",
-        "observability",
-        "zipkin"
-      ],
-      "archived": false,
-      "pushed_at": "2026-01-26T01:36:47Z",
-      "stars": 0
-    },
-    {
-      "owner": "SeijoProduce",
-      "name": "consul-service-discovery",
-      "full_name": "SeijoProduce/consul-service-discovery",
-      "url": "https://github.com/SeijoProduce/consul-service-discovery",
-      "description": "Service discovery with HashiCorp Consul and HAProxy, deployed with Docker Compose",
-      "language": null,
-      "topics": [
-        "consul",
-        "devops",
-        "docker",
-        "microservices"
-      ],
-      "archived": false,
-      "pushed_at": "2026-01-25T18:04:15Z",
       "stars": 0
     },
     {
